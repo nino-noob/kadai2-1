@@ -7,5 +7,6 @@ public class kadai2_1 {
         String reason="食べ物全部が美味しいから！";
         System.out.println("私の好きな食べ物は " + food + "です!");
         System.out.println("なぜなら、" + reason);
+        String app;
     }
 }
